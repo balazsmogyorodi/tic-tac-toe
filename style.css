@@ -1,0 +1,14 @@
+article {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 50%;
+
+
+}
+
+.elem {
+    border: 1px solid black;
+    width: 80px;
+    height: 80px;
+
+}
